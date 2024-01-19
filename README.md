@@ -10,7 +10,6 @@
 - 🌱 I'm currently learning:
   - C#, XAML, VB, SQL, WPF, WinForms
 - 📬 How to reach me: [b.recce9001@gmail.com](mailto:b.recce9001@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
 
 ---
 

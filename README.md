@@ -1,7 +1,7 @@
 # Welcome to [Brandon Recce's](https://brandonrecce.com/) profile!
 <a href="https://docs.google.com/document/d/1flHZiLRhAOfmFTnvwTTyV9sYY1OxXk5RcUEuyulg0WI/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-UI/UX_Developer-red"></a>
 <a href="https://brandonrecce.com/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-brandonrecce.com-red"></a>
-<a href="https://brandonrecce.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@brandon--recce-red"></a>
+<a href="https://www.linkedin.com/in/brandon-recce/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@brandon--recce-red"></a>
 <a href="mailto:b.recce9001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-b.recce9001%40gmail.com-red"></a>
 ---
 

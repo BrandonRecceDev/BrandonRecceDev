@@ -1,5 +1,8 @@
-# Welcome to [Brandon Recce's](https://brandonrecce.com/) profile! <img href="https://www.linkedin.com/in/brandon-recce/"><img align="center" target="_blank" rel="noreferrer noopener" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25"></a>
-
+# Welcome to [Brandon Recce's](https://brandonrecce.com/) profile!
+<a href="https://docs.google.com/document/d/1flHZiLRhAOfmFTnvwTTyV9sYY1OxXk5RcUEuyulg0WI/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-UI/UX_Developer-red"></a>
+<a href="https://brandonrecce.com/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-brandonrecce.com-red"></a>
+<a href="https://brandonrecce.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@brandon--recce-red"></a>
+<a href="mailto:b.recce9001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-b.recce9001%40gmail.com-red"></a>
 ---
 
 # **About Me**:
@@ -17,27 +20,27 @@
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="#"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-grey?logo=csharp&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-grey?logo=cpp2&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-grey?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-grey?logo=database&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-grey?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-grey?logo=mysql&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
 
 <p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-grey?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-grey?logo=obs-studio&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-grey?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-grey?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
 ---
